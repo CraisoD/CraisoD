@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hello! 👋
+
+
+I am Christoffer, also known as Craiso.
+At the moment I am studiying IT at Aland University of applied sciences and enjoy it.
+
+<h2>Education</h2>
+
+<ul>
+  <li>Currently: Second year at IT program at Aland University of Applied Sciences</li>
+  <li>Bachelors degree in Machine engineering at Åland University of applied Sciences</li>
+  
+  
+</ul>
+
+
+<!--<h2>Projects</h2>
+<ul>
+  <li></li>
+</ul>-->
+
 
 <!--
 **CraisoD/CraisoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
