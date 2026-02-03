@@ -15,10 +15,12 @@ I like gaming, playing instruments, exercising and coding.
 </ul>
 
 
-<!--<h2>Projects</h2>
+<h2>Projects</h2>
 <ul>
-  <li></li>
-</ul>-->
+  <li>Lost Knight, a <a href="http://www.craiso.com/lost_knight/">playable</a> godot sidescroller game: https://github.com/CraisoD/Course-project-1-Lost-Knight </li>
+  <li>Flutter Dart/Horseshoe app: https://github.com/CraisoD/Course-Project-2-HorseShoe-App/tree/main</li>
+  
+</ul>
 
 
 <!--
