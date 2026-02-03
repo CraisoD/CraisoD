@@ -2,7 +2,7 @@
 
 
 I am Christoffer, also known as Craiso.
-At the moment I am studiying IT at Aland University of applied sciences.
+At the moment I am studying IT at Aland University of applied sciences.
 I like gaming, playing instruments, exercising and coding. 
 
 <h2>Education</h2>
